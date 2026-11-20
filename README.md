@@ -1,7 +1,7 @@
 # BMIS 235 · HTML-3 · Links + CSS: Your Own Site
 
-**Name:** YOUR NAME
-**GU username:** YOUR-GU-USERNAME
+**Name:** Nick Delevaux
+**GU username:** ndelevaux
 
 My live page: https://nickdelevaux.github.io/bmis235-html-3/
 
